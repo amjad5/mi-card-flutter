@@ -1,6 +1,8 @@
-![App Demo](https://github.com/amjad5/mi-card-flutter/blob/master/mi-card-app-demo.png)
+
 
 # Mi Card
+
+![App Demo](https://github.com/amjad5/mi-card-flutter/blob/master/mi-card-app-demo.png)
 
 ## Our Goal
 
